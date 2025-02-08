@@ -1,0 +1,38 @@
+h1 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 26px; 
+    background-color: rgb(254, 220, 150);
+  }
+  .placeholder {
+      display: inline-block;
+      padding: 20px;
+      border: 2px solid rgb(255, 106, 76);
+      border-radius: 10px;
+      background-color: rgb(88, 33, 33);
+      max-width: 300px;
+    }
+
+  input[type="number"] {
+    padding: 10px;
+    margin: 10px 10px;
+    width: 100px;
+    background-color: rgb(241, 183, 107);
+  }
+  button {
+    padding: 10px 15px;
+    margin: 5px; 
+    background-color: rgb(255, 186, 129);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer; 
+    text-align: center;
+  }
+  button {
+    background-color: rgb(120, 157, 130);
+  }
+  #result {
+    margin-top: 15px;
+    font-weight: bold;
+  }
